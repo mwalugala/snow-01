@@ -1,0 +1,5 @@
+{
+  "name": "Market Confluence Pro",
+  "description": "A high-performance market scanner that analyzes global currency pairs using real-time data and AI-driven confluence scoring. It provides binary 'Take Trade' or 'Do Not Take' signals based on a strict 89% confidence threshold.",
+  "requestFramePermissions": []
+}
